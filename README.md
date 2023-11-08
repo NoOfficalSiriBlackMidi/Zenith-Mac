@@ -1,4 +1,4 @@
-<h1 align="center">Zenith</h1>
+<h1 align="center">Zenith for macOS</h1>
 
 <p align="center">
     <img src="https://i.imgur.com/jshhiL3.png" width="256" />
@@ -21,7 +21,15 @@
 - About the plugins again, the included plugins are extremely customisable and are designed with high quality video production in mind!
 - Customisable render settings, with the ability to change them during preview mode to see real time changes
 - Option to "Include Audio" with render, and to render a separate "Transparency Mask" video for advanced video editing!
-- Customisable render settings, with the ability to change almost all plugin settings, and even switch plugins themselves during preview mode to see real time changes! 
+- Customisable render settings, with the ability to change almost all plugin settings, and even switch plugins themselves during preview mode to see real time changes!
+
+## Support version
+- macOS 10.15 (Catalina)
+- macOS 10.16 (Big Sur Beta)
+- macOS 11.x/Beta (Big Sur)
+- macOS 12.x/Beta (Monterey)
+- macOS 13.x/Beta (Ventura)
+- macOS 14.x/Beta (Sonoma)
 
 ## Plugins
 As a general rule, all custom and original plugins are completely free and open for anyone to use. However exact clones (PFA, miditrail, etc.) will be slightly modified to make them distinct from the original. I might release the exact looking copies, however BMT members are highly against them spreading anywhere.
@@ -38,7 +46,7 @@ It is possible for anyone else who knows C# to make a plugin themselves as well.
 ## Installation
 [![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2032-bit&style=flat-square)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip) [![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2064-bit&style=flat-square&color=green)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx64.zip)
 
-You can download the latest version of Zenith for Windows 32-bit [here](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip) and Windows 64-bit [here](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx64.zip).
+You can download the latest version of Zenith for macOS [here](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip)
 
 FFmpeg is required for video rendering, which you can get it [here](https://ffmpeg.zeranoe.com/builds/).
 
