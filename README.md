@@ -44,8 +44,6 @@ It is possible for anyone else who knows C# to make a plugin themselves as well.
 - **Textured:** If the other plugins aren't enough for you, you can make your own look by using the Textured plugin. Extremely customisable, allowing features such as custom note caps for rounded notes and custom keyboard overlays. *Included with the program*
 
 ## Installation
-[![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2032-bit&style=flat-square)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip) [![](https://img.shields.io/github/v/release/arduano/Zenith-MIDI?label=download%2064-bit&style=flat-square&color=green)](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx64.zip)
-
 You can download the latest version of Zenith for macOS [here](https://github.com/arduano/Zenith-MIDI/releases/latest/download/Zenithx86.zip)
 
 FFmpeg is required for video rendering, which you can get it [here](https://ffmpeg.zeranoe.com/builds/).
